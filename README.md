@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&background=00000000&center=true&vCenter=true&width=490&lines=Hi+there%2C+I'm+Amit+Agarwal+%F0%9F%91%8B;Software+Engineer;Building+Resilient+Microservices;Automating+CI%2FCD+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&background=00000000&center=true&vCenter=true&width=490&lines=Hi+there%2C+I'm+Amit+Agarwal+%F0%9F%91%8B;Software+Engineer;Engineering+AI+Products;Automating+CI%2FCD+Pipelines" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<h3 align="center">Specializing in Java Development with Applied AI & DevOps Automation.</h3>
+<h3 align="center">Specializing in Backend with Applied AI & DevOps Automation.</h3>
 
 ---
 
 ## 🚀 Professional Snapshot
 
-As a Software Engineer, I focus on delivering scalable and high-availability enterprise solutions. My expertise lies in orchestrating the full application lifecycle, from writing optimized Java code to automating deployments via CI/CD.
+As a Software Engineer, I focus on delivering scalable and high-availability enterprise solutions. My expertise lies in orchestrating the full application lifecycle, from writing optimized Python code to automating deployments via CI/CD.
 
 * **Focus Areas:** Software implementation, system reliability, and rapid deployment automation.
 * **Knowledge Transfer:** Enthusiastic about teaching complex technical concepts and facilitating knowledge transfer within teams.
@@ -24,9 +24,10 @@ As a Software Engineer, I focus on delivering scalable and high-availability ent
 
 | Category | Skills |
 | :--- | :--- |
-| **Backend** | Java (Spring Boot), Microservices Architecture, REST APIs |
-| **Containerization** | Docker, **Kubernetes** |
-| **CI/CD & DevOps** | **Jenkins** (Declarative Pipelines), Github Actions, Shell Scripting |
+| **Backend** | Python (FastAPI/Streamlit), REST APIs |
+| **AI Frameworks** | Langchain, Langgraph, **CrewAI** |
+| **Containerization** | Docker, Kubernetes |
+| **CI/CD & DevOps** | Jenkins, Github Actions, Shell Scripting |
 | **Cloud/Infra** | Oracle Cloud Infrastructure (OCI), Linux, Git/GitHub |
 | **Other Languages** | Python, Dart |
 
@@ -40,16 +41,6 @@ Here are key credentials demonstrating my commitment to enterprise-grade cloud t
 | :--- | :--- | :--- |
 | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Amit%20Agarwal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-agarwal2267/) | Connect with me! | LinkedIn |
 | [![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/Oracle%20Cloud-OCI%20Foundations-000000?style=for-the-badge&logo=oracle)](https://www.linkedin.com/in/amit-agarwal2267/details/certifications/) | Oracle Certificate | Oracle Cert |
-| [![Java Programming Badge](https://img.shields.io/badge/Java-Professional-F8981D?style=for-the-badge&logo=java)](https://www.linkedin.com/in/amit-agarwal2267/) | Core Language Skill | Self/Cert |
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  
-  <img src="https://github.com/aamit2267/aamit2267/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Game" />
-  
-</p>
+| [![Python Programming Badge](https://img.shields.io/badge/Python-Professional-F8981D?style=for-the-badge&logo=java)](https://www.linkedin.com/in/amit-agarwal2267/) | Core Language Skill | Self/Cert |
 
 ---
