@@ -14,9 +14,9 @@
 
 As a Software Engineer, I focus on delivering scalable and high-availability enterprise solutions. My expertise lies in orchestrating the full application lifecycle, from writing optimized Python code to automating deployments via CI/CD.
 
-* **Focus Areas:** Software implementation, system reliability, and rapid deployment automation.
+* **Focus Areas:** Prompt Engineering, Loop Engineering, Agentic AI, Graph Engineering, Human-in-loop
 * **Knowledge Transfer:** Enthusiastic about teaching complex technical concepts and facilitating knowledge transfer within teams.
-* **Growth Mindset:** Dedicated to exploring new technical domains and quickly mastering emerging skills.
+* **Growth Mindset:** Actively building projects following the open source community for better reach.
 
 ---
 
